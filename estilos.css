@@ -3,8 +3,12 @@ h2,h3{
 	color: blue;
 	font-size: 12;
 }
-h4'{
+h4{
 	font-family: Tahoma;
 	color: green;
 	font-size: 10;
 }
+body {
+	background-color: white;
+}
+	
